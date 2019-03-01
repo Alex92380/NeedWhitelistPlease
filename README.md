@@ -1,4 +1,5 @@
-#Spigot Link
+# Spigot Link
+
 https://www.spigotmc.org/resources/needwhitelistplease.65267/
 
 # NeedWhitelistPlease
