@@ -1,0 +1,13 @@
+###############################
+#         Author:             #
+#        Alex92380            #
+#https://github.com/Alex92380 #
+#                             #
+###############################
+#define if the server is considered like restricted
+Whitelist:
+ Whitelisted: false
+#define a permission for the player can join
+ Permission: whitelist.op
+#define the message of the kick message
+ KickMessage: We are under maintenance\n Check our discord for \n more information
